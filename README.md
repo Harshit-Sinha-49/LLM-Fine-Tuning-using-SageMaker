@@ -4,6 +4,15 @@
 Amazon SageMaker is a comprehensive machine learning service offered by Amazon Web Services (AWS), designed to simplify the entire machine learning workflow from data preparation to model deployment. It provides a range of tools and functionalities to cater to users with varying levels of expertise.
 One of its key features is data labeling and preparation, facilitating efficient annotation and cleaning of datasets, which is essential for training accurate models. For model training, SageMaker offers managed environments supporting popular frameworks like TensorFlow, PyTorch, and Apache MXNet, with the ability to scale training jobs across distributed clusters for faster processing and reduced costs. 
 
+### Technology Stack
+Here are the technologies I used in this project:
+
+<div style="display: flex; flex-direction: row;">
+<img src="Images/python jupyter.png" width="75" height="75" style="margin-right: 15px;">
+<img src="Images/aws.png" width="75" height="75" style="margin-right: 15px;">
+<img src="Images/SageMaker.png" width="75" height="75" style="margin-right: 15px;">
+</div>
+
 ## LLMs
 Large Language Models (LLMs) represent a revolutionary advancement in the field of natural language processing (NLP). These models are characterized by their ability to understand, generate, and manipulate human language at an unprecedented scale and level of complexity. 
 LLMs are typically built on architectures such as Transformers, which enable them to process vast amounts of text data and learn intricate patterns and structures of language through self-supervised learning techniques.
