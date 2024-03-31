@@ -8,9 +8,9 @@ One of its key features is data labeling and preparation, facilitating efficient
 Here are the technologies I used in this project:
 
 <div style="display: flex; flex-direction: row;">
-<img src="Images/python jupyter.png" width="75" height="75" style="margin-right: 15px;">
-<img src="Images/aws.png" width="75" height="75" style="margin-right: 15px;">
-<img src="Images/SageMaker.png" width="75" height="75" style="margin-right: 15px;">
+<img src="Images/python jupyter.png" width="85" height="85" style="margin-right: 25px;">
+<img src="Images/aws.png" width="85" height="85" style="margin-right: 25px;">
+<img src="Images/SageMaker.png" width="85" height="85" style="margin-right: 25px;">
 </div>
 
 ## LLMs
